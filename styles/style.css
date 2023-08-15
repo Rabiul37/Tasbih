@@ -1,0 +1,9 @@
+main{
+    display:flex;
+    gap:20px;
+}
+.container{
+    text-align: center;
+    border:5px solid lightgray;
+    padding:10px;
+}
